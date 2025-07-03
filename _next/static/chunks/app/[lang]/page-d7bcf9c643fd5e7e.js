@@ -638,7 +638,7 @@
                           className:
                             "neo-index-upper d-flex justify-content-center mt--48",
                           children: (0, t.jsxs)("a", {
-                            href: "#presale-box",
+                            href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
                             ref: p,
                             className: "neo-btn-primary",
                             onClick: (e) => {
@@ -1794,20 +1794,13 @@
                           __html: (0, x.v)(s, "homepage.how_to_buy").content,
                         },
                       }),
-                      (0, t.jsx)("div", {
+                      (0, t.jsx)("a", {
                         className: "d-flex justify-content-center my-3",
                         children: (0, t.jsxs)("a", {
-                          href: "#presale-box",
+                          href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
+                          target: "_blank",
                           ref: a,
                           className: "neo-btn-primary",
-                          onClick: (e) => {
-                            e.preventDefault();
-                            let s = "#presale-box";
-                            if ("/" === v) {
-                              let e = document.querySelector(s);
-                              e && e.scrollIntoView({ behavior: "smooth" });
-                            } else f.push("/".concat(s));
-                          },
                           children: [
                             (0, t.jsx)("span", { className: "frame frame-1" }),
                             (0, t.jsx)("span", { className: "frame frame-2" }),

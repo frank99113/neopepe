@@ -17,6 +17,9 @@
     var(--toastify-toast-offset),
     env(safe-area-inset-top)
   );
+  #presale-box > div > div.container > div > div > div > a {
+    display: none;
+  }
   --toastify-toast-right: max(
     var(--toastify-toast-offset),
     env(safe-area-inset-right)

@@ -247,58 +247,6 @@
                           }),
                         ],
                       }),
-                      (0, l.jsxs)("div", {
-                        className: "header-right",
-                        children: [
-                          (0, l.jsxs)("ul", {
-                            className: "neo-social-media d-none d-xl-flex",
-                            children: [
-                              (0, l.jsx)("li", {
-                                children: (0, l.jsx)("a", {
-                                  target: "_blank",
-                                  href: "https://t.me/NeoPepeProtocol",
-                                  children: (0, l.jsx)(d.g, { icon: o.NFJ }),
-                                }),
-                              }),
-                              (0, l.jsx)("li", {
-                                children: (0, l.jsx)("a", {
-                                  target: "_blank",
-                                  href: "https://x.com/NeoPepeProtocol",
-                                  children: (0, l.jsx)(d.g, { icon: o.NLt }),
-                                }),
-                              }),
-                              (0, l.jsx)("li", {
-                                children: (0, l.jsx)("a", {
-                                  target: "_blank",
-                                  href: "https://linktr.ee/neopepeprotocol",
-                                  children: (0, l.jsx)(d.g, { icon: j.CQO }),
-                                }),
-                              }),
-                            ],
-                          }),
-                          (0, l.jsx)(u.A, {}),
-                          !f &&
-                            (0, l.jsx)("div", {
-                              className: "d-none d-md-flex",
-                              children: (0, l.jsx)(x.A, { currentLng: g }),
-                            }),
-                          (0, l.jsx)("div", {
-                            className: "mobile-menu-bar d-block d-xl-none",
-                            children: (0, l.jsx)("div", {
-                              className: "hamberger",
-                              children: (0, l.jsx)("button", {
-                                onClick: () => {
-                                  w(!v);
-                                },
-                                className: "hamberger-button",
-                                "aria-label": "Open menu",
-                                children: (0, l.jsx)(d.g, { icon: h.ckx }),
-                              }),
-                            }),
-                          }),
-                          N && (0, l.jsx)(p.A, { currentLng: g }),
-                        ],
-                      }),
                     ],
                   }),
                 }),
@@ -675,10 +623,11 @@
                               __html: (0, h.v)(u, "homepage.cta.desc"),
                             },
                           }),
-                          (0, l.jsx)("div", {
+                          (0, l.jsx)("a", {
                             className: "btn-wrap neo-index-upper-3",
                             children: (0, l.jsxs)("a", {
-                              href: "#presale-box",
+                              href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
+                              target: "_blank",
                               ref: g,
                               className: "neo-btn-primary",
                               onClick: (e) => {
