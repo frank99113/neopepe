@@ -188,7 +188,7 @@
                       children: (0, a.jsx)("a", {
                         target: "_blank",
                         onClick: s,
-                        href: "https://t.me/NeoPepeProtocol",
+                        href: "https://t.me/neopepe_official",
                         children: (0, a.jsx)(o.g, { icon: h.NFJ }),
                       }),
                     }),
@@ -196,7 +196,7 @@
                       children: (0, a.jsx)("a", {
                         target: "_blank",
                         onClick: s,
-                        href: "https://x.com/NeoPepeProtocol",
+                        href: "https://x.com/neopepeworld",
                         children: (0, a.jsx)(o.g, { icon: h.NLt }),
                       }),
                     }),

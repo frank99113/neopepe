@@ -361,7 +361,7 @@
                         children: [
                           (0, l.jsxs)("a", {
                             target: "_blank",
-                            href: "https://t.me/NeoPepeProtocol",
+                            href: "https://t.me/neopepe_official",
                             className: "neo-call-t-act-card ".concat(
                               0 === f ? "active" : ""
                             ),
@@ -437,7 +437,7 @@
                           }),
                           (0, l.jsxs)("a", {
                             target: "_blank",
-                            href: "https://x.com/NeoPepeProtocol",
+                            href: "https://x.com/neopepeworld",
                             className: "neo-call-t-act-card ".concat(
                               1 === f ? "active" : ""
                             ),
