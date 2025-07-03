@@ -638,7 +638,7 @@
                           className:
                             "neo-index-upper d-flex justify-content-center mt--48",
                           children: (0, t.jsxs)("a", {
-                            href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/swap?outputCurrency=0xE928ada2e355CEA7724Df8F2819960c490E83764",
                             ref: p,
                             className: "neo-btn-primary",
                             onClick: (e) => {
@@ -1797,7 +1797,7 @@
                       (0, t.jsx)("a", {
                         className: "d-flex justify-content-center my-3",
                         children: (0, t.jsxs)("a", {
-                          href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
+                          href: "https://app.uniswap.org/swap?outputCurrency=0xE928ada2e355CEA7724Df8F2819960c490E83764",
                           target: "_blank",
                           ref: a,
                           className: "neo-btn-primary",
@@ -2938,7 +2938,7 @@
               (0, t.jsx)("span", {
                 className: "clip-text",
                 ref: e,
-                children: "0xcomingsoon",
+                children: "0xE928ada2e355CEA7724Df8F2819960c490E83764",
               }),
               (0, t.jsx)("button", {
                 ref: s,

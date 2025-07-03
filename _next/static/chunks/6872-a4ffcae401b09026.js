@@ -626,7 +626,7 @@
                           (0, l.jsx)("a", {
                             className: "btn-wrap neo-index-upper-3",
                             children: (0, l.jsxs)("a", {
-                              href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
+                              href: "https://app.uniswap.org/swap?outputCurrency=0xE928ada2e355CEA7724Df8F2819960c490E83764",
                               target: "_blank",
                               ref: g,
                               className: "neo-btn-primary",
